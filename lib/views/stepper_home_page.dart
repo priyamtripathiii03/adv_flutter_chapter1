@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:adv_flutter_ch1/utils/global.dart';
 
-class HomePage extends StatefulWidget {
-  const HomePage({super.key});
+class StepperHomePage extends StatefulWidget {
+  const StepperHomePage({super.key});
 
   @override
-  State<HomePage> createState() => _HomePageState();
+  State<StepperHomePage> createState() => _StepperHomePageState();
 }
 
-class _HomePageState extends State<HomePage> {
+class _StepperHomePageState extends State<StepperHomePage> {
   @override
   Widget build(BuildContext context) {
     return SafeArea(
