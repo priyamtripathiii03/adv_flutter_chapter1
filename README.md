@@ -33,9 +33,26 @@ Using a Stepper widget keeps the process organized and less overwhelming, ensuri
 <p>
   <img src="https://github.com/user-attachments/assets/7553c946-736c-4837-8b38-c80acbc98d1e" width="22%">
    <img src="https://github.com/user-attachments/assets/98d12c45-3847-49fe-adb6-9cc10f974b17" width="22%">
-  
-   
+
   </p>
+
+
+# Change theme using provider
+
+## Description 
+
+
+Explore our latest Flutter project featuring dynamic light and dark themes using the Provider package! This setup allows users to switch seamlessly between themes, enhancing accessibility and user preference. Provider ensures efficient state management, making theme changes smooth and responsive. Perfect for modern apps prioritizing user experience and customization.
+  
+  <p>
+  <img src="https://github.com/user-attachments/assets/41f76eae-b0b4-439b-a6c7-c07a03bb447b" width="22%">
+   <img src="https://github.com/user-attachments/assets/ec46b470-eb75-4a5f-b2c2-4c7a367347c0" width="22%">
+
+  </p>
+
+  [Screen_recording_20241023_124104.webm](https://github.com/user-attachments/assets/c297068e-a180-43f8-8100-7daf2dd5f40e)
+
+
 
 
 
